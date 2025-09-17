@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-System
+# Credit Card Fraud Detection System
 This project explores fraud detection using a real-world credit card transaction dataset. The dataset is highly imbalanced, with fraudulent transactions accounting for only 0.172% of all records. Key components of the project include:
 
 - Data Preprocessing: Handled missing values, removed irrelevant outliers, and addressed class imbalance using under-sampling. Applied PCA for dimensionality reduction.
